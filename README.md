@@ -40,7 +40,7 @@ Este projeto tem como objetivo receber, organizar e distribuir leads (principalm
 
 3. **Criar um arquivo `.env` (opcional)**:
    - Defina a variável de ambiente `RD_TOKEN` para autenticação na RD Station.  
-   - O Docker Compose já exporta `RD_TOKEN=673a95db89fd130013b15373` como exemplo, mas você pode sobrescrever com seu próprio token.
+   - O Docker Compose já exporta `RD_TOKEN=************` como exemplo, mas você pode sobrescrever com seu próprio token.
 
 4. **Construir e Executar os Contêineres**:
    ```bash
