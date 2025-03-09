@@ -1,4 +1,4 @@
-# Commel Automações - Distribuição de Leads
+## Distribuição de Leads
 
 Este projeto tem como objetivo receber, organizar e distribuir leads (principalmente oriundos do Facebook) para consultores específicos, além de enviar esses leads ao RD Station para acompanhamento e registro de oportunidades de vendas.
 
